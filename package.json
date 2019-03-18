@@ -10,11 +10,15 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
+    "lodash": "^4.17.11",
     "morgan": "~1.9.0",
     "pug": "^2.0.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/leetuanit/mmolee.git"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-pug": "^7.0.0"
   }
 }
