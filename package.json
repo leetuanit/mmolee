@@ -1,0 +1,13 @@
+{
+  "name": "mmolee",
+  "version": "1.0.0",
+  "description": "Blog mmolee",
+  "main": "app.js",
+  "repository": "https://github.com/leetuanit/mmolee.git",
+  "author": "Lee Tuan <tuanlm1989@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
